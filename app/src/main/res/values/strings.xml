@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyListView</string>
+    <string name="title_activity_first">FirstActivity</string>
+    <string name="btn_films">Films</string>
+    <string name="btn_documentaires">Documentaires</string>
+    <string name="btn_episodes">Épisodes</string>
+    <string name="btn_emissions">Émissions</string>
+</resources>
